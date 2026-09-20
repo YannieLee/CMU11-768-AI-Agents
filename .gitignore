@@ -1,0 +1,17 @@
+# Local Python environments and generated files
+BACAgent/BACAgent/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+
+# Local credentials
+.env
+.env.*
+!.env.example
+.private/
+
+# Submodule paths are configured in the root .gitmodules.
+/assignment/assignment-1/.gitmodules

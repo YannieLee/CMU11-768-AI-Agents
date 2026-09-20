@@ -1,0 +1,6 @@
+[submodule "deck"]
+	path = BACAgent/deck
+	url = https://github.com/nextcloud/deck.git
+[submodule "assignment-chess-app"]
+	path = assignment/assignment-1/chess_app
+	url = https://github.com/cmu-agents/chess-app.git
